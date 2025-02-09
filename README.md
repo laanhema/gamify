@@ -14,3 +14,4 @@ Give yourself a reward after each session or perhaps a week of steady progress
 - Maybe something like a gold star sparkly thingy as a reward
 - Levels
 - Track total hours used
+- Practice combining HTML, CSS and JS together
