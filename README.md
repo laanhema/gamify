@@ -16,7 +16,7 @@ Give yourself a reward after each session or perhaps a week of steady progress
 - Track total hours used
 - Practice combining HTML, CSS and JS together
 
----
+##
 
 Link to this repo: https://github.com/laanhema/gamify.git
 <br>
