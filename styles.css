@@ -1,1 +1,9 @@
 @import './node_modules/pikaday/css/pikaday.css';
+
+h1 {
+  font-family: 'Open Sans';
+}
+
+.header-container {
+  color: black;
+}
