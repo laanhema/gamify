@@ -1,3 +1,9 @@
+function addSelectedDate(calendar) {
+  alert('Date added!'); // just a test
+  date.style.display = 'none';
+  calendar.style.backgroundColor = 'green';
+}
+
 // variable for container of calendar
 const calendarContainer =
   document.getElementsByClassName('calendar-container')[0];
@@ -21,6 +27,6 @@ const addDateButton = document.getElementsByClassName(
   'rounded-button-black-border-2'
 )[0];
 
-addDateButton.addEventListener('click', () => {
-  const date = calendar.getDate();
+addDateButton.addEventListener('click', function () {
+  addSelectedDate(calendar);
 });

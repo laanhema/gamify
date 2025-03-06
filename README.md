@@ -31,7 +31,6 @@ _Markdown is cool woooooooow_ 😎
 
 # TODO:
 
-- make button appear
 - change bg color of the selected element
 - make a button where you can add a selected date so that it colors it differently
 - profile
