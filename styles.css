@@ -65,3 +65,31 @@ header nav ul li a:active {
 .nav-link-selected {
   color: sandybrown;
 }
+
+.rounded-button-black-border-2 {
+  border: #000000;
+  border-style: solid;
+  border-radius: 0.3rem;
+  border-width: 0.1rem;
+  display: none;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.rounded-button-black-border-2 a {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.rounded-button-black-border-2 a:hover {
+  color: orange;
+}
+
+.rounded-button-black-border-2 p {
+  margin: 0;
+}

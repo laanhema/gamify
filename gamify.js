@@ -6,10 +6,21 @@ const calendarContainer =
 const calendar = new Pikaday({
   firstDay: 1,
   showWeekNumber: true,
-  onSelect: function (date) {
-    // field.value = picker.toString();
-    // this.hide();
+  onSelect: function () {
+    document.getElementsByClassName(
+      'rounded-button-black-border-2'
+    )[0].style.display = 'inline-flex';
   },
 });
+
 // adds calendar inside container (child)
 calendarContainer.appendChild(calendar.el);
+
+// variable for button to add date
+const addDateButton = document.getElementsByClassName(
+  'rounded-button-black-border-2'
+)[0];
+
+addDateButton.addEventListener('click', () => {
+  const date = calendar.getDate();
+});
