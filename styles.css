@@ -1,3 +1,4 @@
+/* link to pikaday.css */
 @import './node_modules/pikaday/css/pikaday.css';
 
 /* This removes all the styles of the "User-Agent-Stylesheet", except for the 'display' property */
