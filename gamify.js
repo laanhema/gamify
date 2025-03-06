@@ -11,4 +11,5 @@ const calendar = new Pikaday({
     // this.hide();
   },
 });
+// adds calendar inside container (child)
 calendarContainer.appendChild(calendar.el);
