@@ -1,6 +1,7 @@
 @import './node_modules/pikaday/css/pikaday.css';
 
 body {
+  margin: 0;
   font-family: 'Open Sans';
 }
 

@@ -27,3 +27,10 @@ Fast way to clone this thing:
 _Markdown is cool woooooooow_ 😎
 <br>
 <img src="./img/i7880l7fmwee1.jpeg" alt="meme picture of a genshin impact character as hamster:D!" width="100"/>
+<br>
+
+# TODO:
+
+- add calendar to a container div
+- make a button where you can add a selected date so that it colors it differently
+- profile
