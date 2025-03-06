@@ -31,6 +31,5 @@ _Markdown is cool woooooooow_ 😎
 
 # TODO:
 
-- add calendar to a container div
 - make a button where you can add a selected date so that it colors it differently
 - profile
